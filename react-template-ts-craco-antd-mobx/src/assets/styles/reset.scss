@@ -1,8 +1,10 @@
 html,
 body {
   height: 100%;
-  text-size-adjust: none;
+  padding: 0;
+  margin: 0;
   background-color: transparent;
+  text-size-adjust: none;
 }
 
 #root {
